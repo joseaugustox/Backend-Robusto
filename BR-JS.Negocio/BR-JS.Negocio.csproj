@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>BR_JS.Negocio</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BR-JS.Comuns\BR-JS.Comuns.csproj" />
+    <ProjectReference Include="..\BR-JS.Dominio\BR-JS.Dominio.csproj" />
+    <ProjectReference Include="..\BR-JS.Infraestrutura\BR-JS.Infraestrutura.csproj" />
+  </ItemGroup>
+
+</Project>
