@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BR-JS.Dominio/1.0.0": {
+        "dependencies": {
+          "BR-JS.Comuns": "1.0.0"
+        },
+        "runtime": {
+          "BR-JS.Dominio.dll": {}
+        }
+      },
+      "BR-JS.Comuns/1.0.0": {
+        "runtime": {
+          "BR-JS.Comuns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BR-JS.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BR-JS.Comuns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
